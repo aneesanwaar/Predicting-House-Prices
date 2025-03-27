@@ -21,14 +21,11 @@ This project involves building a linear regression model,  Random Forest, and XG
 - Extract and visualize feature importance for **Random Forest** and **XGBoost**.
 - Analyzed how different features impact house prices.
 
-## Outcome
-- A Python script that includes:
-  - Custom implementation of **Linear Regression, Random Forest, and XGBoost**.
-  - Performance comparisons based on **RMSE** and **R² score**.
-  - Feature importance analysis and visualizations.
+
 
 ## Installation & Setup
-#Prerequisites
+# Prerequisites: 
+
 Clone the repository and install all required dependencies using:
 ```
 git clone https://github.com/aneesanwaar/Predicting-House-Prices.git
