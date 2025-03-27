@@ -24,7 +24,7 @@ This project involves building a linear regression model,  Random Forest, and XG
 
 
 ## Installation & Setup
-# Prerequisites: 
+### Prerequisites: 
 
 Clone the repository and install all required dependencies using:
 ```
